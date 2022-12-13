@@ -1,4 +1,4 @@
-[Return to Index](/index.md)
+[Return to Index](/)  |  [Return to GitHub/Veracode-Demo-Labs](https://github.com/veracode-demo-labs)
 
 # Veracode-GitHub-Getting-Started-Guide
 How to get started with Veracode security scanning in GitHub.

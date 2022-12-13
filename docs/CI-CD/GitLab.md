@@ -1,3 +1,5 @@
+[Return to Index](/)  |  [Return to GitHub/Veracode-Demo-Labs](https://github.com/veracode-demo-labs)
+
 # Veracode-GitLab-Getting-Started-Guide
 How to get started with Veracode security scanning in GitLab.
 
