@@ -6,34 +6,34 @@ Requirements: Veracode user account, Veracode API Credentials, Virtual Desktop L
 ## Choose your starting point:
 
 ### Scan Type:
-  Static
-  SCA
-  Dynamic
-  Container
+  * Static
+  * SCA
+  * Dynamic
+  * Container
 
 ### Sample App Languages:
-  DotNet
-  DotNetCore
-  Java
-  Python
+  * DotNet
+  * DotNetCore
+  * Java
+  * Python
 
 ### IDE's:
-  Visual Studio
-  Visual Studio Code
-  Eclipse
-  IntelliJ
+  * Visual Studio
+  * Visual Studio Code
+  * Eclipse
+  * IntelliJ
 
 ### CI / CD
-  GitHub Actions
-  GitLab
-  AWS
-  Azure
-  DevOps
-  GitLab
-  Jira
+  * GitHub Actions
+  * GitLab
+  * AWS
+  * Azure
+  * DevOps
+  * GitLab
+  * Jira
 
 ### Veracode API/Wrappers
-  Java Wrapper
-  C# Wrapper
-  Pipeline Scanner
-  Direct API calls
+  * Java Wrapper
+  * C# Wrapper
+  * Pipeline Scanner
+  * Direct API calls
