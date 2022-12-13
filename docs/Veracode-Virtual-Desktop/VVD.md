@@ -2,9 +2,13 @@
 
 ## Getting Started
 
-## FAQ
+Upon first login, set your timezone, etc etc
 
-#### Copy/Paste
+
+
+
+
+#### Copy/Paste Notes
 Copy/Paste between your desktop machine and the VVD machine has security implications, in that you're allowing a website to write to the system clipboard.  As such, copy/paste does not work exactly as you might expect.  The Terminal Server (Guacamole) implements the modern Clipboard API, which is handled differently by various browsers.  For some background, see [here](https://guacamole.apache.org/faq/#local-clipboard)
 
 ##### Chrome

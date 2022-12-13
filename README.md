@@ -1,5 +1,7 @@
 # Start Here! Welcome to Veracode Demo Labs
 
-## Sample Apps, Sample DevSecOps Architectures, and Veracode Best Practices
+## Virtual Desktop, Sample Apps, and Sample DevSecOps Architectures
 
-Visit http://veracode-demo-labs.github.io URL or the below veracode-demo-labs.github.io repo to get started with Veracode Demo Labs.
+## Continue in web format here: http://veracode-demo-labs.github.io 
+
+Or [click here](/index.md) to continue in GitHub repo format
