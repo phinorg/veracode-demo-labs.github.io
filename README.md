@@ -5,3 +5,5 @@
 ## Continue in web format here: http://veracode-demo-labs.github.io 
 
 Or [click here](/index.md) to continue in GitHub repo format
+
+![Veracode Demo Labs](/images/veracode-demo-labs-banner.png)

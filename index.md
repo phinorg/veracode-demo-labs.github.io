@@ -1,5 +1,7 @@
+![Veracode Demo Labs](/images/veracode-demo-labs-banner.png)
+
 # Veracode Demo Labs
-Sample Apps, Sample DevSecOps Architectures, and Veracode Best Practices
+Virtual Desktop, Sample Apps, and Sample DevSecOps Architectures
 
 Requirements: Veracode user account, Veracode API Credentials, Virtual Desktop Login or your own environment setup.
 
