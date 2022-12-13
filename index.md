@@ -5,6 +5,8 @@ Requirements: Veracode user account, Veracode API Credentials, Virtual Desktop L
 
 ## Choose your starting point:
 
+[Veracode Virtual Desktop](/docs/Veracode-Virtual-Desktop/VVD.md) getting started and FAQ
+
 ### Scan Type:
   * [Static](/docs/scan-type/static-analysis.md)
   * [Software Composition Analysis](/docs/scan-type/software-composition-analysis.md)
