@@ -6,33 +6,32 @@ Requirements: Veracode user account, Veracode API Credentials, Virtual Desktop L
 ## Choose your starting point:
 
 ### Scan Type:
-  * Static
-  * SCA
-  * Dynamic
-  * Container
+  * [Static](/docs/scan-type/static-analysis.md)
+  * [Software Composition Analysis](/docs/scan-type/software-composition-analysis.md)
+  * [Dynamic](/docs/scan-type/dynamic-analysis.md)
+  * [Container](/docs/scan-type/container.md)
 
 ### Sample App Languages:
-  * DotNet
-  * DotNetCore
-  * Java
-  * Python
+  * [DotNet](/docs/sample-app-languages/DotNet.md)
+  * [DotNetCore](/docs/sample-app-languages/DotNetCore.md)
+  * [Java](/docs/sample-app-languages/Java.md)
+  * [Python](/docs/sample-app-languages/Python.md)
 
 ### IDE's:
-  * Visual Studio
-  * Visual Studio Code
-  * Eclipse
-  * IntelliJ
+  * [Visual Studio](/docs/IDEs/Visual-Studio.md)
+  * [Visual Studio Code](/docs/IDEs/Visual-Studio-Code.md)
+  * [Eclipse](/docs/IDEs/Eclipse.md)
+  * [IntelliJ](/docs/IDEs/IntelliJ.md)
 
 ### CI / CD
-  * GitHub Actions
-  * GitLab
-  * AWS
-  * Azure DevOps
-  * GitLab
-  * Jira
+  * [GitHub](/docs/CI-CD/GitHub.md)
+  * [AWS](/docs/CI-CD/AWS.md)
+  * [Azure DevOps](/docs/CI-CD/AzureDevOps.md)
+  * [GitLab](/docs/CI-CD/GitLab.md)
+  * [Jira](/docs/CI-CD/JIRA.md)
 
 ### Veracode API/Wrappers
-  * Java Wrapper
-  * C# Wrapper
-  * Pipeline Scanner
-  * Direct API calls
+  * [Java Wrapper](/docs/Veracode-API-wrappers/API-wrappers.md)
+  * [C# Wrapper](/docs/Veracode-API-wrappers/API-wrappers.md)
+  * [Pipeline Scanner](/docs/Veracode-API-wrappers/API-wrappers.md)
+  * [Direct API calls](/docs/Veracode-API-wrappers/API-wrappers.md)
