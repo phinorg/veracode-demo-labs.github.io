@@ -1,28 +1,29 @@
-# Getting Started in Veracode Demo Labs
+# Veracode Demo Labs
+Sample Apps, Sample DevSecOps Architectures, and Veracode Best Practices
 
 Requirements: Veracode user account, Veracode API Credentials, Virtual Desktop Login or your own environment setup.
 
 ## Choose your starting point:
 
-Scan Type:
+### Scan Type:
   Static
   SCA
   Dynamic
   Container
 
-Sample App Languages:
+### Sample App Languages:
   DotNet
   DotNetCore
   Java
   Python
 
-IDE's:
+### IDE's:
   Visual Studio
   Visual Studio Code
   Eclipse
   IntelliJ
 
-CI / CD
+### CI / CD
   GitHub Actions
   GitLab
   AWS
@@ -31,7 +32,7 @@ CI / CD
   GitLab
   Jira
 
-Veracode API/Wrappers
+### Veracode API/Wrappers
   Java Wrapper
   C# Wrapper
   Pipeline Scanner
