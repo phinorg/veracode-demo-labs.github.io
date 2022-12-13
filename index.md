@@ -27,8 +27,7 @@ Requirements: Veracode user account, Veracode API Credentials, Virtual Desktop L
   * GitHub Actions
   * GitLab
   * AWS
-  * Azure
-  * DevOps
+  * Azure DevOps
   * GitLab
   * Jira
 
