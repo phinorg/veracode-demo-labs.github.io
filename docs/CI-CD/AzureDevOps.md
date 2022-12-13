@@ -1,4 +1,4 @@
-[Return to Index](/index.md)
+[Return to Index](/)
 
 # Veracode-Azure-DevOps-Getting-Started-Guide
 How to get started with Veracode security scanning in Azure DevOps.

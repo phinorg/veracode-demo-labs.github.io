@@ -1,4 +1,4 @@
-[Return to Index](/index.md)
+[Return to Index](/)
 
 # Veracode Static and Software Composition Analysis Scan
 
