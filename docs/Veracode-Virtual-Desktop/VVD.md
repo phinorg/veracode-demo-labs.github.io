@@ -4,8 +4,32 @@
 
 Upon first login, set your timezone, etc etc
 
+Machine Specs:
+Good enough for 1 IDE at a time
+
+VS 2019
+VS 2022
+IntelliJ
+Eclipse
+
+Updates disabled, image will be updated every X
+
+Git
+MS Edge
+Firefox
+Chrome
+Notepad ++
+
+DotNet/Java/Python installed
+
+c:\local-repos
 
 
+Run into issues, reboot
+
+The machine will shutdown after X minutes
+
+Known Issues?  Copy paste, noted below
 
 
 #### Copy/Paste Notes
