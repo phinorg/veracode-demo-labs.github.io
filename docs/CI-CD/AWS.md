@@ -2,7 +2,7 @@
 
 [Return to Index](/)  |  [Return to GitHub/Veracode-Demo-Labs](https://github.com/veracode-demo-labs)
 
-# Veracode Static and Software Composition Analysis Scan
+# AWS CodeBuild and Veracode
 
 Setup an AWS CodeBuild project with Veracode Static and Software Composition Analysis.
 

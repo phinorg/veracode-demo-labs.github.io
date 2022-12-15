@@ -24,7 +24,7 @@ Veracode Demo Labs GitHub Home: [https://github.com/veracode-demo-labs](https://
   * [Python](/docs/sample-app-languages/Python.md)
 
 ### IDE's:
-  * [Visual Studio](/docs/IDEs/Visual-Studio.md)
+  * [Visual Studio](/docs/IDEs/Visual-Studio-2022.md)
   * [Visual Studio Code](/docs/IDEs/Visual-Studio-Code.md)
   * [Eclipse](/docs/IDEs/Eclipse.md)
   * [IntelliJ](/docs/IDEs/IntelliJ.md)
