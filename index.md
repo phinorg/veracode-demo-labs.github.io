@@ -5,6 +5,8 @@ Virtual Desktop, Sample Apps, and Sample DevSecOps Architectures
 
 Requirements: Veracode user account, Veracode API Credentials, Virtual Desktop Login or your own environment setup.
 
+Veracode Demo Labs GitHub Home: [https://github.com/veracode-demo-labs](https://github.com/veracode-demo-labs)
+
 ## Choose your starting point:
 
 [Veracode Virtual Desktop](/docs/Veracode-Virtual-Desktop/VVD.md) getting started and FAQ
