@@ -12,8 +12,8 @@ Veracode Demo Labs GitHub Home: [https://github.com/veracode-demo-labs](https://
 [Veracode Virtual Desktop](/docs/Veracode-Virtual-Desktop/VVD.md) getting started and FAQ
 
 ### Scan Type:
-  * [Static](/docs/scan-type/static-analysis.md)
-  * [Software Composition Analysis](/docs/scan-type/software-composition-analysis.md)
+  * [Static / Software Composition Analysis](/docs/scan-type/static-sca-analysis.md)
+  * [Greenlight]
   * [Dynamic](/docs/scan-type/dynamic-analysis.md)
   * [Container](/docs/scan-type/container.md)
 
@@ -24,17 +24,39 @@ Veracode Demo Labs GitHub Home: [https://github.com/veracode-demo-labs](https://
   * [Python](/docs/sample-app-languages/Python.md)
 
 ### IDE's:
-  * [Visual Studio](/docs/IDEs/Visual-Studio-2022.md)
-  * [Visual Studio Code](/docs/IDEs/Visual-Studio-Code.md)
-  * [Eclipse](/docs/IDEs/Eclipse.md)
-  * [IntelliJ](/docs/IDEs/IntelliJ.md)
+  * [Visual Studio](/docs/IDEs/Visual-Studio-2022.md) | [DotNetCore](/docs/sample-app-languages/DotNetCore.md) | [DotNet](/docs/sample-app-languages/DotNet.md)
+  * [Visual Studio Code](/docs/IDEs/Visual-Studio-Code.md) | [DotNetCore](/docs/sample-app-languages/DotNetCore.md)
+  * [Eclipse](/docs/IDEs/Eclipse.md) | [Java](/docs/sample-app-languages/Java.md)
+  * [IntelliJ](/docs/IDEs/IntelliJ.md) | [Java](/docs/sample-app-languages/Java.md)
 
-### CI / CD
+### CI / CD Getting Started
   * [GitHub](/docs/CI-CD/GitHub.md)
   * [AWS](/docs/CI-CD/AWS.md)
   * [Azure DevOps](/docs/CI-CD/AzureDevOps.md)
   * [GitLab](/docs/CI-CD/GitLab.md)
   * [Jira](/docs/CI-CD/JIRA.md)
+
+### CI / CD Live Pipelines
+
+*GitHub Actions Examples*
+
+[DotNetCore GitHub Actions](https://github.com/veracode-demo-labs/verademo-dotnetcore/actions)
+
+[DotNetCore GitHub Actions Code](https://github.com/veracode-demo-labs/verademo-dotnetcore/tree/main/.github/workflows)
+
+
+[Java GitHub Actions](https://github.com/veracode-demo-labs/verademo-java/actions)
+
+[Java GitHub Actions Code](https://github.com/veracode-demo-labs/verademo-java/tree/main/.github/workflows)
+
+
+[Python GitHub Actions](https://github.com/veracode-demo-labs/petstore-api-python/actions)
+
+[Python GitHub Actions Code](https://github.com/veracode-demo-labs/petstore-api-python/tree/main/.github/workflows)
+
+*GitLab examples coming soon*
+
+*Azure DevOps examples coming soon*
 
 ### Veracode API/Wrappers
   * [Java Wrapper](/docs/Veracode-API-wrappers/API-wrappers.md)

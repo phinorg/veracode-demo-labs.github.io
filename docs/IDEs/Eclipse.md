@@ -5,8 +5,6 @@
 # Eclipse
 
 Begin by ensuring the project builds.
-![Eclipse](images/Eclipse/Eclipse-1.png)
-
 ![Eclipse](images/Eclipse/Eclipse-2.png)
 
 ![Eclipse](images/Eclipse/Eclipse-3.png)
