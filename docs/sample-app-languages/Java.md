@@ -11,17 +11,17 @@ VeraDemoJava is a containerized, working, and deployable web app with vulnerabil
 
 Veracode Demo Lab examples include:
 
-* IntelliJ | [Example](/IDEs/IntelliJ.md)
+* IntelliJ \ [Example](/IDEs/IntelliJ.md)
 
-* Eclipse | [Example](/IDEs/Eclispe.md)
+* Eclipse \ [Example](/IDEs/Eclispe.md)
 
-* Jenkins | [Details](/CI-CD/Jenkins.md)
+* Jenkins \ [Details](/CI-CD/Jenkins.md)
 
-* GitHub | [Live Pipeline Example](https://github.com/veracode-demo-labs/verademo-java/actions)
+* GitHub \ [Live Pipeline Example](https://github.com/veracode-demo-labs/verademo-java/actions)
 
-* Azure  | Live Pipeline Example (coming soon)
+* Azure  \ Live Pipeline Example (coming soon)
 
-* GitLab | [Live Pipeline Example](https://gitlab.com/veracode-demo-labs/verademo)
+* GitLab \ [Live Pipeline Example](https://gitlab.com/veracode-demo-labs/verademo)
 
 
 [Return to Index](/)  |  [Return to GitHub/Veracode-Demo-Labs](https://github.com/veracode-demo-labs)

@@ -1,36 +1,13 @@
+![Veracode Demo Labs](/images/veracode-demo-labs-banner-wide.png)
+
+[Return to Home](/)  |  [Return to GitHub/Veracode-Demo-Labs](https://github.com/veracode-demo-labs)
+
+
 ## Welcome to your Veracode Virtual Desktop
 
-## Getting Started
+###  Upon first login, set your timezone, and enter your API keys.
 
-Upon first login, set your timezone, etc etc
-
-Machine Specs:
-Good enough for 1 IDE at a time
-
-VS 2019
-VS 2022
-IntelliJ
-Eclipse
-
-Updates disabled, image will be updated every X
-
-Git
-MS Edge
-Firefox
-Chrome
-Notepad ++
-
-DotNet/Java/Python installed
-
-c:\local-repos
-
-
-Run into issues, reboot
-
-The machine will shutdown after X minutes
-
-Known Issues?  Copy paste, noted below
-
+![Veracode Demo Labs](images/FirstLogin.png)
 
 #### Copy/Paste Notes
 Copy/Paste between your desktop machine and the VVD machine has security implications, in that you're allowing a website to write to the system clipboard.  As such, copy/paste does not work exactly as you might expect.  The Terminal Server (Guacamole) implements the modern Clipboard API, which is handled differently by various browsers.  For some background, see [here](https://guacamole.apache.org/faq/#local-clipboard)

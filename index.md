@@ -13,7 +13,6 @@ Veracode Demo Labs GitHub Home: [https://github.com/veracode-demo-labs](https://
 
 ### Scan Type:
   * [Static / Software Composition Analysis](/docs/scan-type/static-sca-analysis.md)
-  * [Greenlight]
   * [Dynamic](/docs/scan-type/dynamic-analysis.md)
   * [Container](/docs/scan-type/container.md)
 
@@ -24,10 +23,10 @@ Veracode Demo Labs GitHub Home: [https://github.com/veracode-demo-labs](https://
   * [Python](/docs/sample-app-languages/Python.md)
 
 ### IDE's:
-  * [Visual Studio](/docs/IDEs/Visual-Studio-2022.md) | [DotNetCore](/docs/sample-app-languages/DotNetCore.md) | [DotNet](/docs/sample-app-languages/DotNet.md)
-  * [Visual Studio Code](/docs/IDEs/Visual-Studio-Code.md) | [DotNetCore](/docs/sample-app-languages/DotNetCore.md)
-  * [Eclipse](/docs/IDEs/Eclipse.md) | [Java](/docs/sample-app-languages/Java.md)
-  * [IntelliJ](/docs/IDEs/IntelliJ.md) | [Java](/docs/sample-app-languages/Java.md)
+  * [Visual Studio](/docs/IDEs/Visual-Studio-2022.md) \ [DotNetCore](/docs/sample-app-languages/DotNetCore.md) \ [DotNet](/docs/sample-app-languages/DotNet.md)
+  * [Visual Studio Code](/docs/IDEs/Visual-Studio-Code.md) \ [DotNetCore](/docs/sample-app-languages/DotNetCore.md)
+  * [Eclipse](/docs/IDEs/Eclipse.md) \ [Java](/docs/sample-app-languages/Java.md)
+  * [IntelliJ](/docs/IDEs/IntelliJ.md) \ [Java](/docs/sample-app-languages/Java.md)
 
 ### CI / CD Getting Started
   * [GitHub](/docs/CI-CD/GitHub.md)
@@ -44,17 +43,15 @@ Veracode Demo Labs GitHub Home: [https://github.com/veracode-demo-labs](https://
 
 [DotNetCore GitHub Actions Code](https://github.com/veracode-demo-labs/verademo-dotnetcore/tree/main/.github/workflows)
 
-
 [Java GitHub Actions](https://github.com/veracode-demo-labs/verademo-java/actions)
 
 [Java GitHub Actions Code](https://github.com/veracode-demo-labs/verademo-java/tree/main/.github/workflows)
-
 
 [Python GitHub Actions](https://github.com/veracode-demo-labs/petstore-api-python/actions)
 
 [Python GitHub Actions Code](https://github.com/veracode-demo-labs/petstore-api-python/tree/main/.github/workflows)
 
-*GitLab examples coming soon*
+[GitLab Pipeline Examples](https://gitlab.com/veracode-demo-labs/)
 
 *Azure DevOps examples coming soon*
 
