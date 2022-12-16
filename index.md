@@ -12,7 +12,7 @@ Veracode Demo Labs GitHub Home: [https://github.com/veracode-demo-labs](https://
 [Veracode Virtual Desktop](/docs/Veracode-Virtual-Desktop/VVD.md) getting started and FAQ
 
 ### Scan Type:
-  * [Static / Software Composition Analysis](/docs/scan-type/static-sca-analysis.md)
+  * [Static / Software Composition Analysis](/docs/scan-type/static-analysis-sca.md)
   * [Dynamic](/docs/scan-type/dynamic-analysis.md)
   * [Container](/docs/scan-type/container.md)
 
