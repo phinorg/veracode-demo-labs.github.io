@@ -11,7 +11,7 @@ PetStoreAPI is a containerized, working, and deployable API app with vulnerabili
 
 Veracode Demo Lab examples include:
 
-* Jenkins \ [Details](/CI-CD/Jenkins.md)
+* Jenkins \ [Details](/docs/CI-CD/Jenkins.md)
 
 * GitHub \ [Getting Started](/docs/CI-CD/GitHub.md) \ [Live Pipeline Example](https://github.com/veracode-demo-labs/petstore-api-python/actions)
 
