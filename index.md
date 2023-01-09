@@ -11,16 +11,12 @@ Veracode Demo Labs GitHub Home: [https://github.com/veracode-demo-labs](https://
 
 [Veracode Virtual Desktop](/docs/Veracode-Virtual-Desktop/VVD.md) getting started and FAQ
 
-### Scan Type:
-  * [Static / Software Composition Analysis](/docs/scan-type/static-analysis-sca.md)
-  * [Dynamic](/docs/scan-type/dynamic-analysis.md)
-  * [Container](/docs/scan-type/container.md)
-
-### Sample App Languages:
-  * [DotNet](/docs/sample-app-languages/DotNet.md)
-  * [DotNetCore](/docs/sample-app-languages/DotNetCore.md)
-  * [Java](/docs/sample-app-languages/Java.md)
-  * [Python](/docs/sample-app-languages/Python.md)
+| IDE      |  Language | Repo on GitHub     |
+| :---        |    :----:   |          ---: |
+| [Visual Studio](/docs/IDEs/Visual-Studio-2022.md)     | DotNet       | [VeraDemoDotNet](https://github.com/veracode-demo-labs/verademo-dotnet)   |
+| [Visual Studio Code](/docs/IDEs/Visual-Studio-Code.md)   | DotNetCore        | [VeraDemoDotNetCore](https://github.com/veracode-demo-labs/verademo-dotnetcore)     |
+| [Eclipse](/docs/IDEs/Eclipse.md)   | Java        | [VeraDemoJava](https://github.com/veracode-demo-labs/verademo-java)      |
+| [IntelliJ](/docs/IDEs/IntelliJ.md)   | Java        | [VeraDemoJava](https://github.com/veracode-demo-labs/verademo-java)      |
 
 ### IDE's:
   * [Visual Studio](/docs/IDEs/Visual-Studio-2022.md) \ [DotNetCore](/docs/sample-app-languages/DotNetCore.md) \ [DotNet](/docs/sample-app-languages/DotNet.md)
