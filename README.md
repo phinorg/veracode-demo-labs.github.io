@@ -8,4 +8,5 @@ Or [click here](/index.md) to continue in GitHub repo format
 
 ![Veracode Demo Labs](/images/veracode-demo-labs-banner.png)
 
-{% include youtube.html id="0kpK0I7anVc" %}
+Video overview of the Veracode Virtual Desktop
+(https://youtu.be/0kpK0I7anVc)
