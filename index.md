@@ -7,6 +7,8 @@ Requirements: Veracode user account, Veracode API Credentials, Virtual Desktop L
 
 Veracode Demo Labs GitHub Home: [https://github.com/veracode-demo-labs](https://github.com/veracode-demo-labs)
 
+{% include youtube.html id="0kpK0I7anVc" %}
+
 ## Choose your starting point:
 
 [Veracode Virtual Desktop](/docs/Veracode-Virtual-Desktop/VVD.md) getting started and FAQ
